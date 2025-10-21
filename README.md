@@ -79,5 +79,5 @@ This project supports **climate variability and change studies** across the Indo
 
 ## 📜 License
 
-This project is released under the [MIT License](LICENSE).
-You are free to use, modify, and distribute it with proper attribution.
+This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+© 2025 Raihan Jauhari Pratama

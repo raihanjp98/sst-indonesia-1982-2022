@@ -1,0 +1,10 @@
+# Abaikan file besar dan output
+*.nc
+*.xlsx
+*.gif
+*.png
+*.html
+
+# Folder yang tidak perlu
+__pycache__/
+*.ipynb_checkpoints/

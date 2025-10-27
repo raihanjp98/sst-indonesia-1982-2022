@@ -31,7 +31,7 @@ pip install numpy pandas xarray netCDF4 matplotlib cmocean cartopy scipy
 Extract the Indonesian region from global SST datasets.
 
 ```bash
-python sst_slicing.py
+python sst_indonesia_slicing.py
 ```
 
 ### 2. **Trend Analysis**
@@ -39,7 +39,7 @@ python sst_slicing.py
 Compute SST trend and correlation for the 1982–2022 period.
 
 ```bash
-python sst_trend.py
+python sst_indonesia_trend.py
 ```
 
 ### 3. **Visualization**
@@ -47,7 +47,7 @@ python sst_trend.py
 Generate maps, time series, and GIFs of SST variation.
 
 ```bash
-python sst_visualization.py
+python sst_indonesia_visualization.py
 ```
 
 ---
